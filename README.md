@@ -2,8 +2,6 @@
  
 A simple react application to make your own memes.
 
-"_Don't Let your Memes be Dreams._"
-
 ## Resources
 
 Images Collected from the [unsplash](https://images.unsplash.com). 
