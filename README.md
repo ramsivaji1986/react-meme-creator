@@ -1,6 +1,8 @@
 # react-meme-creator
  
-A simple react application to make your own memes.
+Task:
+
+Build a meme generator which allows users to customize it and place their own text on meme images fetched. The text can be inserted at the top or bottom of the image. The solution should provide the input fields for both and ask users their choice of placement. The images can be fetched automatically and having a database for them is advised.
 
 ## Resources
 
